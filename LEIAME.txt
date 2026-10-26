@@ -1,0 +1,17 @@
+VITRINE ALVIM - Nintendo Switch
+
+Coloque as fotos nesta pasta: /switch/vitrine/fotos/
+Formatos: jpg, jpeg, png ou webp.
+A ordem segue o numero no nome: 1, 2, 3 ... 10, 11 ... 120.
+
+Abra pelo Homebrew Menu (de preferencia segurando R ao abrir um jogo).
+
+CONTROLES
+  Tocar na lateral, deslizar, D-pad, L/R, ZL/ZR, A/B .. trocar foto
+  Tocar no meio ou Y ................................. pausar / continuar
+  X .................................................. girar a tela
+  + .................................................. sair
+
+CONFIGURACAO (config.txt, criado sozinho na primeira vez)
+  orientacao = vertical | vertical-inverso | horizontal
+  segundos   = tempo de cada foto
